@@ -1,0 +1,3120 @@
+<!DOCTYPE html>
+<html class="desktop">
+
+<head>
+  <title>
+Books by Lu Xun (Author of Diary of a Madman and Other Stories)
+</title>
+
+
+    <script type="text/javascript"> var ue_t0=window.ue_t0||+new Date();
+ </script>
+  <script type="text/javascript">
+    (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+
+    if (window.ue && window.ue.tag) { window.ue.tag('author:list:signed_out', ue.main_scope);window.ue.tag('author:list:signed_out:desktop', ue.main_scope); }
+  </script>
+
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="https://s.gr-assets.com/assets/webfontloader-5438aec66887d6d561289f181d0195ca.js"></script>
+<script>
+//<![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["https://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]>
+</script>
+
+  <link rel="stylesheet" media="all" href="https://s.gr-assets.com/assets/goodreads-4eb2d8ebcca85ba22ce12307c14378d3.css" />
+<!--[if lte IE 9]>
+<link rel="stylesheet" media="all" href="https://s.gr-assets.com/assets/goodreads_split2-b4bcad7fff94c1d11889266633d5720d.css" />
+<![endif]-->
+  
+
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" media="screen" href="https://s.gr-assets.com/assets/ie-243e73b5c2539766a7d02b37fdf277f8.css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" media="screen" href="https://s.gr-assets.com/assets/common_images_ie-5b0cc205c33756d8e7e84ce5b8be28e3.css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link rel="stylesheet" media="screen" href="https://s.gr-assets.com/assets/common_images-67dd60a681af04727cf7d18f5c5ba498.css" />
+  <!--<![endif]-->
+
+  <script src="https://s.gr-assets.com/assets/desktop/libraries-5f4c721c8cce991276028944f145f211.js"></script>
+  <script src="https://s.gr-assets.com/assets/application-e3a84626b49a26d431ea58e1be5e8e4b.js"></script>
+
+    <script>
+  //<![CDATA[
+    var gptAdSlots = gptAdSlots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "b6c0df6fb27e45ad54ead73f92e75d23");
+    googletag.pubads().setTargeting("grsession", "b6c0df6fb27e45ad54ead73f92e75d23");
+    googletag.pubads().setTargeting("signedin", "false");
+    googletag.pubads().setTargeting("author", [7509399]);
+    googletag.pubads().setTargeting("shelf", ["1001","eastasian","greatestbooks","eastasianliterature","worldlibrary100bestbooks","translated","çinedebiyatı","bokklubbenworldlibrary","guardian","100greatestbooks","chinaasia","unfinished"]);
+    googletag.pubads().setTargeting("gtargeting", "1dvxwqws1t");
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs(true);
+      googletag.pubads().disableInitialLoad();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    ! function(a9, a, p, s, t, A, g) {
+      if (a[a9]) return;
+    
+      function q(c, r) {
+        a[a9]._Q.push([c, r])
+      }
+      a[a9] = {
+      init: function() {
+        q("i", arguments)
+      },
+      fetchBids: function() {
+        q("f", arguments)
+      },
+      setDisplayBids: function() {},
+        _Q: []
+      };
+      A = p.createElement(s);
+      A.async = !0;
+      A.src = t;
+      g = p.getElementsByTagName(s)[0];
+      g.parentNode.insertBefore(A, g)
+    }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    
+    apstag.init({
+      pubID: '3211', adServer: 'googletag', bidTimeout: 4e3
+    });
+  //]]>
+</script>
+
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3hCP7fTRjG8+jmHOyCi5g+6PLQQeO7c45OUWReJAiApSza6vfRegx0RfsyxNa6V9jqPcw05UkBIj2soPFQBitQ==" />
+
+  <meta name="request-id" content="6NB4Z1ZNYX0MSMVGW6KD" />
+
+      <link rel="canonical" href="https://www.goodreads.com/author/list/7509399.Lu_Xun" />
+
+  <script src="https://s.gr-assets.com/assets/react_client_side/external_dependencies-ae97978edf.js"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/site_header-7fe1185394.js"></script>
+<script src="https://s.gr-assets.com/assets/react_ujs-d9fd29be94e810d36e13f90d5c480c64.js"></script>
+
+
+  
+
+  
+  
+  
+
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+    <script>
+  //<![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]>
+</script>
+
+
+    <meta name="description" content="Lu Xun has 188 books on Goodreads with 14185 ratings. Lu Xun’s most popular book is Diary of a Madman and Other Stories.">
+
+  <meta content='summary' name='twitter:card'>
+<meta content='@goodreads' name='twitter:site'>
+<meta content='Books by Lu Xun (Author of Diary of a Madman and Other Stories)' name='twitter:title'>
+<meta content='Lu Xun has 188 books on Goodreads with 14185 ratings. Lu Xun’s most popular book is Diary of a Madman and Other Stories.' name='twitter:description'>
+
+
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=">
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+  <meta name="apple-itunes-app" content="app-id=355833469">
+  
+</head>
+
+
+<body class="">
+<div class="content">
+  
+
+    <script>
+  //<![CDATA[
+    if (typeof window.uet == "function") { window.uet("ns"); }
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    // Load Facebook JS SDK
+    $grfb.initialize({
+      appId: "2415071772",
+      grSession: "false",
+      serverFBUser: "null",
+      serverPublishEnabled: null,
+      suppressAutoLogin: "false",
+      brokenFbConnectionTracked: "false",
+      publishPermissionVerified: "false"
+    });
+  //]]>
+</script>
+<div class='siteHeader gr-box gr-box--withShadow'>
+<script>
+//<![CDATA[
+  ReactStores.NotificationsStore.updateWith({});
+  ReactStores.CurrentUserStore.initializeWith({"currentUser":null});
+  ReactStores.FavoriteGenresStore.updateWith({"allGenres":[{"name":"Art","url":"/genres/art"},{"name":"Biography","url":"/genres/biography"},{"name":"Business","url":"/genres/business"},{"name":"Children's","url":"/genres/children-s"},{"name":"Christian","url":"/genres/christian"},{"name":"Classics","url":"/genres/classics"},{"name":"Comics","url":"/genres/comics"},{"name":"Cookbooks","url":"/genres/cookbooks"},{"name":"Ebooks","url":"/genres/ebooks"},{"name":"Fantasy","url":"/genres/fantasy"},{"name":"Fiction","url":"/genres/fiction"},{"name":"Graphic Novels","url":"/genres/graphic-novels"},{"name":"Historical Fiction","url":"/genres/historical-fiction"},{"name":"History","url":"/genres/history"},{"name":"Horror","url":"/genres/horror"},{"name":"Memoir","url":"/genres/memoir"},{"name":"Music","url":"/genres/music"},{"name":"Mystery","url":"/genres/mystery"},{"name":"Nonfiction","url":"/genres/non-fiction"},{"name":"Poetry","url":"/genres/poetry"},{"name":"Psychology","url":"/genres/psychology"},{"name":"Romance","url":"/genres/romance"},{"name":"Science","url":"/genres/science"},{"name":"Science Fiction","url":"/genres/science-fiction"},{"name":"Self Help","url":"/genres/self-help"},{"name":"Sports","url":"/genres/sports"},{"name":"Thriller","url":"/genres/thriller"},{"name":"Travel","url":"/genres/travel"},{"name":"Young Adult","url":"/genres/young-adult"}],"favoriteGenres":[],"sponsoredGenres":[{"name":"Audiobooks","url":"/genres/audiobooks"}],"adId":"div-gpt-ad-goodr-nav-browse-400x300"});
+  ReactStores.TabsStore.updateWith({"communitySpotlight":"groups"});
+
+//]]>
+</script><div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list&quot;,&quot;browseUrl&quot;:&quot;/book&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards&quot;,&quot;dealsUrl&quot;:&quot;/ebook-deals&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway&quot;,&quot;homeUrl&quot;:&quot;/&quot;,&quot;listUrl&quot;:&quot;/list&quot;,&quot;blogUrl&quot;:&quot;/blog/index&quot;,&quot;editorsPicksUrl&quot;:&quot;/voice&quot;,&quot;communityUrl&quot;:&quot;/group&quot;,&quot;groupsUrl&quot;:&quot;/group&quot;,&quot;quotesUrl&quot;:&quot;/quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/ask_the_author&quot;,&quot;searchPath&quot;:&quot;/search&quot;,&quot;discussionsUrl&quot;:&quot;/topic&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;logoActionUrl&quot;:&quot;/&quot;,&quot;readingNotesUrl&quot;:&quot;/notes?ref=nd&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2017/12&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[&quot;ads_uxo_nav_spotlight&quot;,&quot;newsfeed_impression_tracking&quot;,&quot;nav_bar_discussions_pane&quot;],&quot;logoAltText&quot;:&quot;Goodreads Home&quot;}"><div data-reactid=".2ebwd7wq3gg" data-react-checksum="-1751288758"><header class="siteHeader__contents" data-reactid=".2ebwd7wq3gg.0"><a href="/" class="siteHeader__logo" aria-label="Goodreads Home" title="Goodreads Home" data-reactid=".2ebwd7wq3gg.0.0"></a><nav class="primaryNav" data-reactid=".2ebwd7wq3gg.0.1"><ul role="menu" data-reactid=".2ebwd7wq3gg.0.1.0"><li class="siteHeader__topLevelItem" data-reactid=".2ebwd7wq3gg.0.1.0.0"><a href="/" class="siteHeader__topLevelLink" data-reactid=".2ebwd7wq3gg.0.1.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".2ebwd7wq3gg.0.1.0.1"><a href="/review/list" class="siteHeader__topLevelLink" data-reactid=".2ebwd7wq3gg.0.1.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".2ebwd7wq3gg.0.1.0.2"><div class="dropdown dropdown--siteHeader" data-reactid=".2ebwd7wq3gg.0.1.0.2.0"><a class="dropdown__trigger dropdown__trigger--siteHeader dropdown__trigger--triggerEventTypeHover" href="/book" role="button" aria-haspopup="true" aria-expanded="false" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.0"><span data-reactid=".2ebwd7wq3gg.0.1.0.2.0.0.0">Browse ▾</span></a><div class="dropdown__menu dropdown__menu--siteHeader gr-box gr-box--withShadowLarge" role="menu" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.0"><a href="/recommendations" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.1"><a href="/ebook-deals" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.1.0">Deals</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.2"><a href="/choiceawards" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.2.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.3"><a href="/giveaway" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2017/12" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.5"><a href="/list" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.6"><a href="/voice" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.6.0">News &amp; Interviews</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.7"><a href="/book" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.7.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.8"><a href="/blog/index" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.8.0">Blog</a></li><div class="siteHeader__sponsoredFillSpace" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.9"></div><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.a"><a href="https://www.goodreads.com/track/daily_click?pmet_click_tid=AEP_Desktop_Header_BrowseEntrypoint&amp;tid=AEP_Desktop_Header_BrowseEntrypoint&amp;url=https://www.goodreads.com/audible" class="siteHeader__sponsoredNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.a.0"><div data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.a.0.0"><div class="siteHeader__navDivider" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.a.0.0.0"></div><span data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.a.0.0.1">Listen with Audible</span></div></a></li><div class="siteHeader__sponsoredLabel" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.b"><span class="siteHeader__sponsoredIcon gr-newsfeedItem__sponsoredBadgeIcon featuredGenres__sponsoredIcon" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.b.0"></span><span class="featuredGenres__sponsoredLabel siteHeader__sponsoredText" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.0.b.1">Sponsored</span></div></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".2ebwd7wq3gg.0.1.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem" data-reactid=".2ebwd7wq3gg.0.1.0.3"><div class="dropdown dropdown--siteHeader" data-reactid=".2ebwd7wq3gg.0.1.0.3.0"><a class="dropdown__trigger dropdown__trigger--siteHeader dropdown__trigger--triggerEventTypeHover" href="/group" role="button" aria-haspopup="true" aria-expanded="false" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.0"><span data-reactid=".2ebwd7wq3gg.0.1.0.3.0.0.0">Community ▾</span></a><div class="dropdown__menu dropdown__menu--siteHeader gr-box gr-box--withShadowLarge" role="menu" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.0"><a href="/group" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.1"><a href="/topic" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.2"><a href="/quotes" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.3"><a href="/ask_the_author" class="siteHeader__subNavLink" data-reactid=".2ebwd7wq3gg.0.1.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav><div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".2ebwd7wq3gg.0.2"><form autocomplete="off" action="/search" role="search" aria-label="Search for books to add to your shelves" data-reactid=".2ebwd7wq3gg.0.2.0"><input class="searchBox__input searchBox__input--navbar" autocomplete="off" name="q" type="text" placeholder="Search books" aria-label="Search books" aria-controls="searchResults" data-reactid=".2ebwd7wq3gg.0.2.0.0"/><button type="submit" class="searchBox__icon searchBox__icon--magnifyingGlass gr-iconButton" aria-label="Search" data-reactid=".2ebwd7wq3gg.0.2.0.1"></button></form></div><ul class="siteHeader__personal" data-reactid=".2ebwd7wq3gg.0.3"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".2ebwd7wq3gg.0.3.0"><a href="/user/sign_in" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".2ebwd7wq3gg.0.3.0.0">Sign In</a></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".2ebwd7wq3gg.0.3.1"><a href="/user/sign_up" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".2ebwd7wq3gg.0.3.1.0">Join</a></li></ul></header></div></div>
+</div>
+<script>
+  //<![CDATA[
+    ReactRailsUJS.mountComponents();
+  //]]>
+</script>
+
+  
+
+  <div class="mainContentContainer ">
+
+
+      
+
+    <div class="mainContent ">
+      
+      
+      <div class="mainContentFloat ">
+
+        <div id="flashContainer">
+
+
+
+
+</div>
+
+        
+<h1>Books by Lu Xun</h1>
+<div class="leftContainer">
+
+  <a class="leftAlignedImage" href="/author/show/7509399.Lu_Xun"><img alt="Lu Xun" title="Lu Xun" src="https://images.gr-assets.com/authors/1426653622p2/7509399.jpg" /></a>
+
+  <div class="">
+    <a class="authorName" href="/author/show/7509399.Lu_Xun">Lu Xun</a><br/>
+    Average rating 3.96 &middot;
+    4,817 ratings &middot;
+    319 reviews &middot;
+    shelved 14,185 times
+
+  </div>
+
+	<br class="clear"/><br/>
+
+    <div style="float: left" class="mediumTex">
+        Showing 30 distinct works.
+    </div>
+
+    <div style="float: right">
+        <div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a rel="next" href="/author/list/7509399.Lu_Xun?page=2&amp;per_page=30">2</a> <a href="/author/list/7509399.Lu_Xun?page=3&amp;per_page=30">3</a> <a href="/author/list/7509399.Lu_Xun?page=4&amp;per_page=30">4</a> <a href="/author/list/7509399.Lu_Xun?page=5&amp;per_page=30">5</a> <a href="/author/list/7509399.Lu_Xun?page=6&amp;per_page=30">6</a> <a href="/author/list/7509399.Lu_Xun?page=7&amp;per_page=30">7</a> <a class="next_page" rel="next" href="/author/list/7509399.Lu_Xun?page=2&amp;per_page=30">next »</a></div>
+
+    </div>
+
+    <div class="greyText" style="float: right; margin-right: 20px">
+        <form id="sortForm" name="sortForm" action="/author/list/7509399.Lu_Xun" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <span class="greyText smallText">sort by</span>
+        <select id="sort" class="smallText" name="sort" onchange="document.sortForm.submit();">
+                <option value="popularity" selected=&quot;selected&quot;>popularity</option>
+                <option value="original_publication_year" >original publication year</option>
+                <option value="title" >title</option>
+                <option value="average_rating" >average rating</option>
+                <option value="number_of_pages" >number of pages</option>
+        </select>
+</form>    </div>
+
+
+  <br class="clear"/>
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" class="tableList">
+		  
+  <!-- Add query string params -->
+
+  
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[  
+
+  function submitShelfLink(unique_id, book_id, shelf_id, shelf_name, submit_form, exclusive) {
+    var checkbox_id = 'shelf_name_' + unique_id + '_' + shelf_id;
+    var element = document.getElementById(checkbox_id)
+
+    var checked = element.checked
+    if (checked && exclusive) {
+      // can't uncheck a radio by clicking it!
+      return
+    }
+    if(document.getElementById("savingMessage")){
+      Element.show('savingMessage')
+    }
+    var element_id = 'shelfInDropdownName_' + unique_id + '_' + shelf_id;
+    Element.update(element_id, "saving...");
+    if (submit_form) {
+      Element.hide('shelfDropdown_' + unique_id)
+      var form = document.getElementById('addBookForm' + book_id)
+      if (form) {
+        form.shelf.value = shelf_name
+        form.onsubmit()
+      }
+    }
+    else {
+      var action = checked ? 'remove' : ''
+      element.checked = !element.checked
+      new Ajax.Request('/shelf/add_to_shelf', {asynchronous:true, evalScripts:true, onSuccess:function(request){shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name)}, parameters:'book_id=' + book_id + '&name=' + shelf_name + '&a=' + action + '&authenticity_token=' + encodeURIComponent('0JACDG1tU9beZf/vVkGnViHnPqxXEYXez4EEIcgTfrZcTSNO5Kt/fqS0LQ3TAruoQcvPawd+ovQIvthrP1OUCQ==')})
+    }
+  }
+
+  function shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name) {
+    Element.update('shelfListfalse_' + book_id, request.responseText)
+    afterShelfSave(checkbox_id, element_id, unique_id, shelf_name.escapeHTML())
+  }
+
+  function refreshGroupBox(group_id, book_id) {
+    new Ajax.Updater('addGroupBooks' + book_id + '', '/group/add_book_box', {asynchronous:true, evalScripts:true, onSuccess:function(request){refreshGroupBoxComplete(request, book_id);}, parameters:'id=' + group_id + '&book_id=' + book_id + '&refresh=true' + '&authenticity_token=' + encodeURIComponent('1J4BBfLnciBlFFm226AfMPCvGYxIqH78gLEyy7VruoRYQyBHeyFeiB/Fi1Re4wPOkIPoSxjHWdZHju6BQitQOw==')})
+  }
+//]]>
+</script>
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="127047" class="u-anchorTarget"></div>
+        <a title="Diary of a Madman and Other Stories" href="/book/show/127047.Diary_of_a_Madman_and_Other_Stories">
+          <img alt="Diary of a Madman and Other..." class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1387707313s/127047.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/127047.Diary_of_a_Madman_and_Other_Stories">
+        <span itemprop='name'>Diary of a Madman and Other Stories</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/3870490.William_A_Lyell"><span itemprop="name">William A. Lyell</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.01 avg rating &mdash; 1,208 ratings</span>
+            &mdash;
+              published
+             1918
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/122353-ku-ngr-n-r-j">17 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='1_book_127047'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mUbUi0qmFLjvDo8z9lF9OuqhIIQhjY93MGsH671utZ0Vm/XJw2A4EJXfXdFzEmHEio3RQ3HiqF33VNuhSi5fIg==" />
+<input type="hidden" name="book_id" id="book_id" value="127047" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_127047" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Tq+6SJ/BE0La0AYCmiFIdphPp7ypEdqCpGlLo37EkYTCcpsKFgc/6qAB1OAfYlSI+GNWe/l+/ahjVpfpiYR7Ow==" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_127047" />
+<input type="hidden" name="book_id" id="book_id" value="127047" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="127047" data-user-id="0" data-submit-url="/review/rate/127047?stars_click=true&wtr_button_id=1_book_127047" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="838938" class="u-anchorTarget"></div>
+        <a title="The True Story of Ah Q" href="/book/show/838938.The_True_Story_of_Ah_Q">
+          <img alt="The True Story of Ah Q" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1387745839s/838938.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/838938.The_True_Story_of_Ah_Q">
+        <span itemprop='name'>The True Story of Ah Q</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.81 avg rating &mdash; 1,078 ratings</span>
+            &mdash;
+              published
+             1918
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/824508-q-q-zh-ngzhu-n">49 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='2_book_838938'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GWJZphdBN27i7qfyb+/QN/1/6wLuM713Yya+GDvaUgeVv3jknocbxpg/dRDqrMzJnVMaxb5cml2kGWJSzJq4uA==" />
+<input type="hidden" name="book_id" id="book_id" value="838938" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_838938" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mN9G9weA+hzoPrSWelSnRzw2413mW2QdgqQC90Z9QikUAme1jkbWtJLvZnT/F7u5XBoSmrY0QzdFm969sT2olg==" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_838938" />
+<input type="hidden" name="book_id" id="book_id" value="838938" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="838938" data-user-id="0" data-submit-url="/review/rate/838938?stars_click=true&wtr_button_id=2_book_838938" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="7312194" class="u-anchorTarget"></div>
+        <a title="The Real Story of Ah-Q and Other Tales of China: The Complete Fiction of Lu Xun" href="/book/show/7312194-the-real-story-of-ah-q-and-other-tales-of-china">
+          <img alt="The Real Story of Ah-Q and ..." class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1311645962s/7312194.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/7312194-the-real-story-of-ah-q-and-other-tales-of-china">
+        <span itemprop='name'>The Real Story of Ah-Q and Other Tales of China: The Complete Fiction of Lu Xun</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/184291.Julia_Lovell"><span itemprop="name">Julia Lovell</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/148348.Yiyun_Li"><span itemprop="name">Yiyun Li</span></a> <span class="authorName greyText smallText role">(Afterword)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.92 avg rating &mdash; 535 ratings</span>
+            &mdash;
+              published
+             2009
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/58076399-the-real-story-of-ah-q-and-other-tales-of-china-the-complete-fiction-of">4 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='3_book_7312194'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4k8ZVCJQc2IoL0acMR5QnTJ1r1cuFDSJDDP9/HENQj9ukjgWq5ZfylL+lH60XUxjUllekH57E6PLDCG2hk2ogA==" />
+<input type="hidden" name="book_id" id="book_id" value="7312194" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="3_book_7312194" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tAsPBtu3OKXM0O3GdV6ttX3R3qyiegwNLq7CvQNux1s41i5EUnEUDbYBPyTwHbFLHf0va/IVKyfpkR739C4t5A==" />
+<input type="hidden" name="unique_id" id="unique_id" value="3_book_7312194" />
+<input type="hidden" name="book_id" id="book_id" value="7312194" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="7312194" data-user-id="0" data-submit-url="/review/rate/7312194?stars_click=true&wtr_button_id=3_book_7312194" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="812068" class="u-anchorTarget"></div>
+        <a title="Selected Stories" href="/book/show/812068.Selected_Stories">
+          <img alt="Selected Stories" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1348859050s/812068.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/812068.Selected_Stories">
+        <span itemprop='name'>Selected Stories</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/17028337.Lu_Hs_n"><span itemprop="name">Lu Hsün</span></a>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.90 avg rating &mdash; 405 ratings</span>
+            &mdash;
+              published
+             1972
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/798005-selected-stories">21 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='4_book_812068'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rkdVfM7OdwNObXRFhrot/4zuI5r83ZZMTXsfL+gcBbQimnQ+RwhbqzS8pqcD+TEB7MLSXayysWaKRMNlH1zvCw==" />
+<input type="hidden" name="book_id" id="book_id" value="812068" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="4_book_812068" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3e5SVrVMp9d7tN7UelZvuv1V+lXMMpvjhgQOQHc+I8BRM3MUPIqLfwFlDDb/FXNEnXkLkpxdvMlBO9IKgH7Jfw==" />
+<input type="hidden" name="unique_id" id="unique_id" value="4_book_812068" />
+<input type="hidden" name="book_id" id="book_id" value="812068" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="812068" data-user-id="0" data-submit-url="/review/rate/812068?stars_click=true&wtr_button_id=4_book_812068" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="21442812" class="u-anchorTarget"></div>
+        <a title="Diary of a Madman" href="/book/show/21442812-diary-of-a-madman">
+          <img alt="Diary of a Madman" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1478361908s/21442812.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/21442812-diary-of-a-madman">
+        <span itemprop='name'>Diary of a Madman</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.68 avg rating &mdash; 355 ratings</span>
+            &mdash;
+              published
+             1918
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/40751742-diary-of-a-madman">19 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='5_book_21442812'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yqYbPXgJ6HoXiXC26fRtx4OuT8Miu7EwedqHC767FvdGezp/8c/E0m1YolRst3E544K+BHLUlhq+5VtBSfv8SA==" />
+<input type="hidden" name="book_id" id="book_id" value="21442812" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="5_book_21442812" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="K78DyCQHb+Sfoq60z9fuKHi81wtkIPWroBBPlo5/UF+nYiKKrcFDTOVzfFZKlPLWGJAmzDRP0oFnL5PceT+64A==" />
+<input type="hidden" name="unique_id" id="unique_id" value="5_book_21442812" />
+<input type="hidden" name="book_id" id="book_id" value="21442812" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="21442812" data-user-id="0" data-submit-url="/review/rate/21442812?stars_click=true&wtr_button_id=5_book_21442812" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="426117" class="u-anchorTarget"></div>
+        <a title="Call to Arms" href="/book/show/426117.Call_to_Arms">
+          <img alt="Call to Arms" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1174642623s/426117.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/426117.Call_to_Arms">
+        <span itemprop='name'>Call to Arms</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.26 avg rating &mdash; 275 ratings</span>
+            &mdash;
+              published
+             1923
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/415171-call-to-arms">29 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='6_book_426117'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iC3mezmOf/WSCskRE84VLfY1HOiE/ipDTOOrtI5t8+sE8Mc5sEhTXejbG/OWjQnTlhntL9SRDWmL3Hf+eS0ZVA==" />
+<input type="hidden" name="book_id" id="book_id" value="426117" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="6_book_426117" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HHvmNcPSkO62stTI/dPR1lhrOvVY1sf+GTvYTnb1YIeQpsd3ShS8RsxjBip4kM0oOEfLMgi54NTeBAQEgbWKOA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="6_book_426117" />
+<input type="hidden" name="book_id" id="book_id" value="426117" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="426117" data-user-id="0" data-submit-url="/review/rate/426117?stars_click=true&wtr_button_id=6_book_426117" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="18663411" class="u-anchorTarget"></div>
+        <a title="朝花夕拾" href="/book/show/18663411">
+          <img alt="朝花夕拾" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1384804216s/18663411.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/18663411">
+        <span itemprop='name'>朝花夕拾</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.35 avg rating &mdash; 202 ratings</span>
+            &mdash;
+              published
+             1976
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/26484944-chinese-edition">34 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='7_book_18663411'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CmRZWjBxpFxrjUrk+Q8HYB9uaEUFNF9obbHxhx1cUxmGuXgYubeI9BFcmAZ8TBuef0KZglVbeEKqji3N6hy5pg==" />
+<input type="hidden" name="book_id" id="book_id" value="18663411" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="7_book_18663411" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rGY1pn9pkPftO6Gw4KpT/ByTk1dTPyjt7mfan5WPe6MguxTk9q+8X5fqc1Jl6U8CfL9ikANQD8cpWAbVYs+RHA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="7_book_18663411" />
+<input type="hidden" name="book_id" id="book_id" value="18663411" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="18663411" data-user-id="0" data-submit-url="/review/rate/18663411?stars_click=true&wtr_button_id=7_book_18663411" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="9730" class="u-anchorTarget"></div>
+        <a title="Wild Grass" href="/book/show/9730.Wild_Grass">
+          <img alt="Wild Grass" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1166052534s/9730.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/9730.Wild_Grass">
+        <span itemprop='name'>Wild Grass</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/380262.Gladys_Yang"><span itemprop="name">Gladys Yang</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/508561.Xianyi_Yang"><span itemprop="name">Xianyi Yang</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.97 avg rating &mdash; 135 ratings</span>
+            &mdash;
+              published
+             1974
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/12526">22 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='8_book_9730'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zNK93uFSzAtwE42rK7Rfaa7FabCNRC6WCyefj11CJ81AD5ycaJTgowrCX0mu90OXzumYd90rCbzMGEPFqgLNcg==" />
+<input type="hidden" name="book_id" id="book_id" value="9730" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="8_book_9730" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mAP39APeHUVk5CWAV4ACbW4XQDWQel5Yg35BXsAsRksU3ta2ihgx7R4192LSwx6TDjux8sAVeXJEQZ0UN2ys9A==" />
+<input type="hidden" name="unique_id" id="unique_id" value="8_book_9730" />
+<input type="hidden" name="book_id" id="book_id" value="9730" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="9730" data-user-id="0" data-submit-url="/review/rate/9730?stars_click=true&wtr_button_id=8_book_9730" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="18903850" class="u-anchorTarget"></div>
+        <a title="彷徨" href="/book/show/18903850">
+          <img alt="彷徨" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1385211171s/18903850.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/18903850">
+        <span itemprop='name'>彷徨</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.16 avg rating &mdash; 85 ratings</span>
+            &mdash;
+              published
+             1926
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/6502469">13 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='9_book_18903850'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bqlmryJfTLRIV/Z5Sdk3ZN70egoVzD9zVcF9Lk5QvB3idEftq5lgHDKGJJvMmiuavtiLzUWjGFmS/qFkuRBWog==" />
+<input type="hidden" name="book_id" id="book_id" value="18903850" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="9_book_18903850" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="C1xxauvigw0R6oETlMP8i0SPai7/SuChD7yegytRcHSHgVAoYiSvpWs7U/ERgOB1JKOb6a8lx4vIg0LJ3BGayw==" />
+<input type="hidden" name="unique_id" id="unique_id" value="9_book_18903850" />
+<input type="hidden" name="book_id" id="book_id" value="18903850" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="18903850" data-user-id="0" data-submit-url="/review/rate/18903850?stars_click=true&wtr_button_id=9_book_18903850" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="931389" class="u-anchorTarget"></div>
+        <a title="Old Tales Retold (Chinese-English Edition)" href="/book/show/931389.Old_Tales_Retold_Chinese_English_Edition_">
+          <img alt="Old Tales Retold (Chinese-E..." class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1387668316s/931389.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/931389.Old_Tales_Retold_Chinese_English_Edition_">
+        <span itemprop='name'>Old Tales Retold (Chinese-English Edition)</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.11 avg rating &mdash; 64 ratings</span>
+            &mdash;
+              published
+             1936
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/916377-old-tales-retold-chinese-english-edition">22 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='10_book_931389'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ViBGl/iPwVM0j0EpJNTNEIo5XvVru0vsYgvWQz8iIm/a/WfVcUnt+05ek8uhl9Hu6hWvMjvUbMalNAoJyGLI0A==" />
+<input type="hidden" name="book_id" id="book_id" value="931389" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="10_book_931389" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4WgZLI7KgBc9cEq1ST0iGZyrXk3u8Su4VI9oznXavq9ttThuBwysv0ehmFfMfj7n/Ievir6eDJKTsLSEgppUEA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="10_book_931389" />
+<input type="hidden" name="book_id" id="book_id" value="931389" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="931389" data-user-id="0" data-submit-url="/review/rate/931389?stars_click=true&wtr_button_id=10_book_931389" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="850455" class="u-anchorTarget"></div>
+        <a title="The New-Year Sacrifice and Other Stories" href="/book/show/850455.The_New_Year_Sacrifice_and_Other_Stories">
+          <img alt="The New-Year Sacrifice and ..." class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1365962130s/850455.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/850455.The_New_Year_Sacrifice_and_Other_Stories">
+        <span itemprop='name'>The New-Year Sacrifice and Other Stories</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.22 avg rating &mdash; 51 ratings</span>
+            &mdash;
+              published
+             2002
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='11_book_850455'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RNPtbB2fdoVS5YD0vwkjTiYMLkfn8NOcGv3AGm96m5TIDswulFlaLSg0UhY6Sj+wRiDfgLef9LbdwhxQmDpxKw==" />
+<input type="hidden" name="book_id" id="book_id" value="850455" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="11_book_850455" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RGwAB1hkhLxFiiXzO3nTdyyP0o6lMv11OK4ERpy/phnIsSFF0aKoFD9b9xG+Os+JTKMjSfVd2l//kdgMa/9Mpg==" />
+<input type="hidden" name="unique_id" id="unique_id" value="11_book_850455" />
+<input type="hidden" name="book_id" id="book_id" value="850455" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="850455" data-user-id="0" data-submit-url="/review/rate/850455?stars_click=true&wtr_button_id=11_book_850455" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="18713314" class="u-anchorTarget"></div>
+        <a title="伤逝" href="/book/show/18713314">
+          <img alt="伤逝" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1384805684s/18713314.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/18713314">
+        <span itemprop='name'>伤逝</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.49 avg rating &mdash; 41 ratings</span>
+            &mdash;
+              published
+             2012
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='12_book_18713314'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ak7ocA/WL5X1DhMI2FpW0IwtBjaPvOU91/u8bV5fSbXmk8kyhhADPY/fwepdGUou7AH38d/TwhcQxGAnqR+jCg==" />
+<input type="hidden" name="book_id" id="book_id" value="18713314" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="12_book_18713314" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FvjAs599p1YreE9t15MtigmcwOURavPL45FZDeITJZOaJeHxFruL/lGpnY9S0DF0abAxIkEF1OEkroVHFVPPLA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="12_book_18713314" />
+<input type="hidden" name="book_id" id="book_id" value="18713314" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="18713314" data-user-id="0" data-submit-url="/review/rate/18713314?stars_click=true&wtr_button_id=12_book_18713314" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="212907" class="u-anchorTarget"></div>
+        <a title="The Complete Stories of Lu Xun" href="/book/show/212907.The_Complete_Stories_of_Lu_Xun">
+          <img alt="The Complete Stories of Lu Xun" class="bookSmallImg" itemprop="image" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/212907.The_Complete_Stories_of_Lu_Xun">
+        <span itemprop='name'>The Complete Stories of Lu Xun</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/380262.Gladys_Yang"><span itemprop="name">Gladys Yang</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/508561.Xianyi_Yang"><span itemprop="name">Xianyi Yang</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.22 avg rating &mdash; 27 ratings</span>
+            &mdash;
+              published
+             1981
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/206096-the-complete-stories-of-lu-xun">3 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='13_book_212907'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2UyL/5HJWrDmZ4+SfnJ+04D9rmn9TqM86J/1ilbYpJ1Vkaq9GA92GJy2XXD7MWIt4NFfrq0hhBYvoCnAoZhOIg==" />
+<input type="hidden" name="book_id" id="book_id" value="212907" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="13_book_212907" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/zQtKhGck+uvMNpS3r7ZzwLXuZN+3BZL214VTcLaWG5z6QxomFq/Q9XhCLBb/cUxYvtIVC6zMWEcYckHNZqy0Q==" />
+<input type="hidden" name="unique_id" id="unique_id" value="13_book_212907" />
+<input type="hidden" name="book_id" id="book_id" value="212907" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="212907" data-user-id="0" data-submit-url="/review/rate/212907?stars_click=true&wtr_button_id=13_book_212907" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="18189725" class="u-anchorTarget"></div>
+        <a title="鲁迅杂文精选集" href="/book/show/18189725">
+          <img alt="鲁迅杂文精选集" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1373623292s/18189725.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/18189725">
+        <span itemprop='name'>鲁迅杂文精选集</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span></span> 4.58 avg rating &mdash; 12 ratings</span>
+            &mdash;
+              published
+             2009
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='14_book_18189725'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="X71pUuIEmHs0zRCru+9Wnz6s9SOIUAW0R12PV9bLad3TYEgQa8K0004cwkk+rEphXoAE5Ng/Ip6AYlMdIYuDYg==" />
+<input type="hidden" name="book_id" id="book_id" value="18189725" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="14_book_18189725" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="txoSse76GUeKABcNCDCZHl49jmirOK2wnlCBzQNABdQ7xzPzZzw17/DRxe+Nc4XgPhF/r/tXippZb12H9ADvaw==" />
+<input type="hidden" name="unique_id" id="unique_id" value="14_book_18189725" />
+<input type="hidden" name="book_id" id="book_id" value="18189725" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="18189725" data-user-id="0" data-submit-url="/review/rate/18189725?stars_click=true&wtr_button_id=14_book_18189725" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="1936641" class="u-anchorTarget"></div>
+        <a title="阿Q正伝・狂人日記 他十二篇" href="/book/show/1936641._Q_">
+          <img alt="阿Q正伝・狂人日記 他十二篇" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1190578913s/1936641.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/1936641._Q_">
+        <span itemprop='name'>阿Q正伝・狂人日記 他十二篇</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.92 avg rating &mdash; 13 ratings</span>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='15_book_1936641'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PCaiJ7nxM2IZV6TFzHRYYhmeaF4fAuBt/Fn35FB++xyw+4NlMDcfymOGdidJN0ScebKZmU9tx0c7Ziuupz4Row==" />
+<input type="hidden" name="book_id" id="book_id" value="1936641" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="15_book_1936641" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ODMCJaxCLPHlp6XLr19wpMjsQn64KP0pITuGET6FmN+07iNnJYQAWZ92dykqHGxaqMCzuehH2gPmBFpbycVyYA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="15_book_1936641" />
+<input type="hidden" name="book_id" id="book_id" value="1936641" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="1936641" data-user-id="0" data-submit-url="/review/rate/1936641?stars_click=true&wtr_button_id=15_book_1936641" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="10028605" class="u-anchorTarget"></div>
+        <a title="Selected Works of Lu Hsun" href="/book/show/10028605-selected-works-of-lu-hsun">
+          <img alt="Selected Works of Lu Hsun" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1348531094s/10028605.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/10028605-selected-works-of-lu-hsun">
+        <span itemprop='name'>Selected Works of Lu Hsun</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.27 avg rating &mdash; 11 ratings</span>
+            &mdash;
+              published
+             2001
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='16_book_10028605'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fTOWo46efiOXWj1nhPI06u7QG2zGRtFy9qa0pGfjuGbx7rfhB1hSi+2L74UBsSgUjvzqq5Yp9lgxmWjukKNS2Q==" />
+<input type="hidden" name="book_id" id="book_id" value="10028605" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="16_book_10028605" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gPYJ7/tzbSdKybn+qCRPj/tm53s4rRcNotDuYtlGBjEMKyitcrVBjzAYaxwtZ1Nxm0oWvGjCMCdl7zIoLgbsjg==" />
+<input type="hidden" name="unique_id" id="unique_id" value="16_book_10028605" />
+<input type="hidden" name="book_id" id="book_id" value="10028605" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="10028605" data-user-id="0" data-submit-url="/review/rate/10028605?stars_click=true&wtr_button_id=16_book_10028605" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="10609388" class="u-anchorTarget"></div>
+        <a title="Selected Essays" href="/book/show/10609388-selected-essays">
+          <img alt="Selected Essays" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1430284708s/10609388.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/10609388-selected-essays">
+        <span itemprop='name'>Selected Essays</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.91 avg rating &mdash; 11 ratings</span>
+            &mdash;
+              published
+             2005
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/15517407-lu-xun-selected-essays">3 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='17_book_10609388'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ml/TIOGMK/vpTDqNAbN7b67LLCu4DWT3haX9mkCk1A++gvJiaEoHU5Od6G+E8GeRzufd7OhiQ91CmiHQt+Q+sA==" />
+<input type="hidden" name="book_id" id="book_id" value="10609388" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="17_book_10609388" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="V3H1at8GUzdKziopZQrZpHCrEbnJGF3xhkCf1gBrzorbrNQoVsB/nzAf+MvgScVaEIfgfpl3ettBf0Oc9yskNQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="17_book_10609388" />
+<input type="hidden" name="book_id" id="book_id" value="10609388" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="10609388" data-user-id="0" data-submit-url="/review/rate/10609388?stars_click=true&wtr_button_id=17_book_10609388" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="15988888" class="u-anchorTarget"></div>
+        <a title="Fuga sulla luna" href="/book/show/15988888-fuga-sulla-luna">
+          <img alt="Fuga sulla luna" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1346767458s/15988888.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/15988888-fuga-sulla-luna">
+        <span itemprop='name'>Fuga sulla luna</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/130374.Giuliano_Bertuccioli"><span itemprop="name">Giuliano Bertuccioli</span></a> <span class="authorName greyText smallText role">(contributor)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.73 avg rating &mdash; 11 ratings</span>
+            &mdash;
+              published
+             1973
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/21744127-fuga-sulla-luna">6 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='18_book_15988888'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CvOU9eWLDUeCyMNg3uAtmfNrP1YaS1XRKg3xpYKywi2GLrW3bE0h7/gZEYJbozFnk0fOkUokcvvtMi3vdfIokg==" />
+<input type="hidden" name="book_id" id="book_id" value="15988888" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="18_book_15988888" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="TUo+16HUIojeyU39XOf106W+wVxARQwt1syp7LRG2gnBlx+VKBIOIKQYnx/ZpOktxZIwmxAqKwcR83WmQwYwtg==" />
+<input type="hidden" name="unique_id" id="unique_id" value="18_book_15988888" />
+<input type="hidden" name="book_id" id="book_id" value="15988888" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="15988888" data-user-id="0" data-submit-url="/review/rate/15988888?stars_click=true&wtr_button_id=18_book_15988888" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="1114707" class="u-anchorTarget"></div>
+        <a title="A Brief History of Chinese Fiction" href="/book/show/1114707.A_Brief_History_of_Chinese_Fiction">
+          <img alt="A Brief History of Chinese ..." class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1347573816s/1114707.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/1114707.A_Brief_History_of_Chinese_Fiction">
+        <span itemprop='name'>A Brief History of Chinese Fiction</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.70 avg rating &mdash; 10 ratings</span>
+            &mdash;
+              published
+             1959
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/1103686-a-brief-history-of-chinese-fiction">12 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='19_book_1114707'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zLWJuErJJKBJQWo8rovA3JBJ91EYOu2TfIV3Co2sJ5NAaKj6ww8ICDOQuN4ryNwi8GUGlkhVyrm7uqtAeuzNLA==" />
+<input type="hidden" name="book_id" id="book_id" value="1114707" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="19_book_1114707" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ABxpHlxvbNLtTCSwkO170hFx60E3p8CJ2OZEdbp5ltOMwUhc1alAeped9lIVrmcscV0ahmfI56Mf2Zg/TTl8bA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="19_book_1114707" />
+<input type="hidden" name="book_id" id="book_id" value="1114707" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="1114707" data-user-id="0" data-submit-url="/review/rate/1114707?stars_click=true&wtr_button_id=19_book_1114707" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="850456" class="u-anchorTarget"></div>
+        <a title="Selected Poems" href="/book/show/850456.Selected_Poems">
+          <img alt="Selected Poems" class="bookSmallImg" itemprop="image" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/850456.Selected_Poems">
+        <span itemprop='name'>Selected Poems</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.38 avg rating &mdash; 8 ratings</span>
+            &mdash;
+              published
+             1982
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/415172-lu-xun-selected-poems-chinese-english-edition">3 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='20_book_850456'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3PWtBl5QugBa5nQRjG4FbISQvso3jakIHlKgv2wjo3dQKIxE15aWqCA3pvMJLRmS5LxPDWfijiLZbXz1m2NJyA==" />
+<input type="hidden" name="book_id" id="book_id" value="850456" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="20_book_850456" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SPdLCXCSqoU4N96HMEH8oi6AoBQEfCBcw+YWTP5TdSbEKmpL+VSGLULmDGW1AuBcTqxR01QTB3YE2coGCROfmQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="20_book_850456" />
+<input type="hidden" name="book_id" id="book_id" value="850456" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="850456" data-user-id="0" data-submit-url="/review/rate/850456?stars_click=true&wtr_button_id=20_book_850456" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="1679714" class="u-anchorTarget"></div>
+        <a title="Silent China; Selected Writings of Lu Xun" href="/book/show/1679714.Silent_China_Selected_Writings_of_Lu_Xun">
+          <img alt="Silent China; Selected Writ..." class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1367877145s/1679714.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/1679714.Silent_China_Selected_Writings_of_Lu_Xun">
+        <span itemprop='name'>Silent China; Selected Writings of Lu Xun</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span><span size="12x12" class="staticStar p0"></span></span> 3.40 avg rating &mdash; 10 ratings</span>
+            &mdash;
+              published
+             1973
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='21_book_1679714'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hDE9cq2fUmVFNsW3tN6lzuXhtv9cv85zVk35q2hB80wI7BwwJFl+zT/nF1Uxnbkwhc1HOAzQ6VmRciXhnwEZ8w==" />
+<input type="hidden" name="book_id" id="book_id" value="1679714" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="21_book_1679714" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hzrdD8uKsO8QXRdgfeKCXf8wTlDqme4j3Dz1C5PGqjQL5/xNQkycR2qMxYL4oZ6jnxy/l7r2yQkbAylBZIZAiw==" />
+<input type="hidden" name="unique_id" id="unique_id" value="21_book_1679714" />
+<input type="hidden" name="book_id" id="book_id" value="1679714" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="1679714" data-user-id="0" data-submit-url="/review/rate/1679714?stars_click=true&wtr_button_id=21_book_1679714" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="6317206" class="u-anchorTarget"></div>
+        <a title="热风" href="/book/show/6317206">
+          <img alt="热风" class="bookSmallImg" itemprop="image" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/6317206">
+        <span itemprop='name'>热风</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.12 avg rating &mdash; 8 ratings</span>
+            &mdash;
+              published
+             2012
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/6502485">2 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='22_book_6317206'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="p32eabOfvROWMbHRa/lsQu73IVgQTlXH2KLtj/eoSesroL8rOlmRu+zgYzPuunC8jtvQn0Ahcu0fnTHFAOijVA==" />
+<input type="hidden" name="book_id" id="book_id" value="6317206" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="22_book_6317206" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="TOBkMT27uOm63PNsK7kCu3lqSuMbw+B8Hd//HeQAMQTAPUVztH2UQcANIY6u+h5FGUa7JEusx1ba4CNXE0Dbuw==" />
+<input type="hidden" name="unique_id" id="unique_id" value="22_book_6317206" />
+<input type="hidden" name="book_id" id="book_id" value="6317206" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="6317206" data-user-id="0" data-submit-url="/review/rate/6317206?stars_click=true&wtr_button_id=22_book_6317206" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="15772430" class="u-anchorTarget"></div>
+        <a title="Повести. Рассказы" href="/book/show/15772430">
+          <img alt="Повести. Рассказы" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1343377644s/15772430.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/15772430">
+        <span itemprop='name'>Повести. Рассказы</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6450520._"><span itemprop="name">Лу Синь</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.75 avg rating &mdash; 8 ratings</span>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='23_book_15772430'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="G28GwHwtP5vup6CdyTRMAA3BExA0dskVSuQBXTLB76SXsieC9esTM5R2cn9Md1D+be3i12QZ7j+N290XxYEFGw==" />
+<input type="hidden" name="book_id" id="book_id" value="15772430" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="23_book_15772430" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YbAoqu7FDrqKicMsLG1aI5TpKnKY57nEugnksITGJ2ztbQnoZwMiEvBYEc6pLkbd9MXbtciInu59Njj6c4bN0w==" />
+<input type="hidden" name="unique_id" id="unique_id" value="23_book_15772430" />
+<input type="hidden" name="book_id" id="book_id" value="15772430" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="15772430" data-user-id="0" data-submit-url="/review/rate/15772430?stars_click=true&wtr_button_id=23_book_15772430" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="29109491" class="u-anchorTarget"></div>
+        <a title="鲁迅全集" href="/book/show/29109491">
+          <img alt="鲁迅全集" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1455596899s/29109491.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/29109491">
+        <span itemprop='name'>鲁迅全集</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span title="it was amazing" size="12x12" class="staticStar p10">it was amazing</span><span title="it was amazing" size="12x12" class="staticStar p10"></span><span title="it was amazing" size="12x12" class="staticStar p10"></span><span title="it was amazing" size="12x12" class="staticStar p10"></span><span title="it was amazing" size="12x12" class="staticStar p10"></span></span> 5.00 avg rating &mdash; 5 ratings</span>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='24_book_29109491'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ew8gu4AA8muaOjC1fp7hSeh27JZFCqwXZICd85/6KlKf0gH5Ccbew+Dr4lf73f23iFodURVliz2jv0G5aLrA7Q==" />
+<input type="hidden" name="book_id" id="book_id" value="29109491" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="24_book_29109491" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="H5Ao4WzwudxXYtT9wJD/iC4GJK+/Nay00crxu+OFo1eTTQmj5TaVdC2zBh9F0+N2TirVaO9ai54W9S3xFMVJ6A==" />
+<input type="hidden" name="unique_id" id="unique_id" value="24_book_29109491" />
+<input type="hidden" name="book_id" id="book_id" value="29109491" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="29109491" data-user-id="0" data-submit-url="/review/rate/29109491?stars_click=true&wtr_button_id=24_book_29109491" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="16042434" class="u-anchorTarget"></div>
+        <a title="La falsa libertà" href="/book/show/16042434-la-falsa-libert">
+          <img alt="La falsa libertà" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1348424181s/16042434.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/16042434-la-falsa-libert">
+        <span itemprop='name'>La falsa libertà</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6538683.Edoardo_Masi"><span itemprop="name">Edoardo Masi</span></a> <span class="authorName greyText smallText role">(Editor)</span>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.17 avg rating &mdash; 6 ratings</span>
+            &mdash;
+              published
+             1968
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/21819279-la-falsa-libert">2 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='25_book_16042434'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fGxk8kthsR72uJnqirF/PUh47BGoTv8BAjX115ARWpnwsUWwwqedtoxpSwgP8mPDKFQd1vgh2CvFCimdZ1GwJg==" />
+<input type="hidden" name="book_id" id="book_id" value="16042434" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="25_book_16042434" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YUFUHLh83IK3VUHVR2Y1ttJXxn1iMb8j9D6Jp7Xmd/LtnHVeMbrwKs2EkzfCJSlIsns3ujJemAkzAVXtQqadTQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="25_book_16042434" />
+<input type="hidden" name="book_id" id="book_id" value="16042434" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="16042434" data-user-id="0" data-submit-url="/review/rate/16042434?stars_click=true&wtr_button_id=25_book_16042434" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="19433269" class="u-anchorTarget"></div>
+        <a title="Capturing Chinese: The New Year&#39;s Sacrifice" href="/book/show/19433269-capturing-chinese">
+          <img alt="Capturing Chinese: The New ..." class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1386924398s/19433269.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/19433269-capturing-chinese">
+        <span itemprop='name'>Capturing Chinese: The New Year's Sacrifice</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7550788.Kevin_Nadolny"><span itemprop="name">Kevin Nadolny</span></a> <span class="authorName greyText smallText role">(Editor)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/4716305.Atula_Siriwardane"><span itemprop="name">Atula Siriwardane</span></a> <span class="authorName greyText smallText role">(Illustrator)</span>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.17 avg rating &mdash; 6 ratings</span>
+            &mdash;
+              published
+             1978
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/27514812-capturing-chinese-the-new-year-s-sacrifice">3 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='26_book_19433269'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fT55995I06y9ZLWTxzqlsRSKzc8uxcR+UZ5Vrt9zz3fx41i1V47/BMe1Z3FCeblPdKY8CH6q41SWoYnkKDMlyA==" />
+<input type="hidden" name="book_id" id="book_id" value="19433269" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="26_book_19433269" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wbgyfHtKDJryDtSpNc6jcfBojfIEVIQlBRae9n0ke55NZRM+8owgMojfBkuwjb+PkER8NVQ7ow/CKUK8imSRIQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="26_book_19433269" />
+<input type="hidden" name="book_id" id="book_id" value="19433269" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="19433269" data-user-id="0" data-submit-url="/review/rate/19433269?stars_click=true&wtr_button_id=26_book_19433269" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="10607515" class="u-anchorTarget"></div>
+        <a title="Lu Xun Selected Works (I Iv)" href="/book/show/10607515-lu-xun-selected-works-i-iv">
+          <img alt="Lu Xun Selected Works (I Iv..." class="bookSmallImg" itemprop="image" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/10607515-lu-xun-selected-works-i-iv">
+        <span itemprop='name'>Lu Xun Selected Works (I Iv) (V. 1 4)</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/5576828.Yang_Hsien_Yi"><span itemprop="name">Yang Hsien Yi</span></a>, <a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span></span> 4.60 avg rating &mdash; 5 ratings</span>
+            &mdash;
+              published
+             1981
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/15515474-lu-xun-selected-works-i-iv-v-1-4">2 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='27_book_10607515'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="k/8QCDgejCrSqt68Y1x2Sbd3+zVIG3C5/xZzhcurlrIfIjFKsdiggqh7DF7mH2q311sK8hh0V5M4Ka/PPOt8DQ==" />
+<input type="hidden" name="book_id" id="book_id" value="10607515" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="27_book_10607515" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Oo8AMI3RDOky7oSVqg7iWd0+xIC5qOObcpU56pMxccO2UiFyBBcgQUg/VncvTf6nvRI1R+nHxLG1quWgZHGbfA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="27_book_10607515" />
+<input type="hidden" name="book_id" id="book_id" value="10607515" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="10607515" data-user-id="0" data-submit-url="/review/rate/10607515?stars_click=true&wtr_button_id=27_book_10607515" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="18601339" class="u-anchorTarget"></div>
+        <a title="Lu Xun&#39;s Novels" href="/book/show/18601339-lu-xun-s-novels">
+          <img alt="Lu Xun&#39;s Novels" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1384802679s/18601339.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/18601339-lu-xun-s-novels">
+        <span itemprop='name'>Lu Xun's Novels</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span></span> 4.40 avg rating &mdash; 5 ratings</span>
+            &mdash;
+              published
+             2006
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/26371611-lu-xun-s-novels-chinese-edition">3 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='28_book_18601339'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EjVOneu+8Wr4o/ItcolDv0bNTvH6l2W9NRNEnzt9hqae6G/fYnjdwoJyIM/3yl9BJuG/Nqr4QpfyLJjVzD1sGQ==" />
+<input type="hidden" name="book_id" id="book_id" value="18601339" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="28_book_18601339" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="q0hUov3AP6fllqE8zIT/ieduCfhbTQ0iqfQBvL6M8ConlXXgdAYTD59Hc95Jx+N3h0L4PwsiKghuy932ScwalQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="28_book_18601339" />
+<input type="hidden" name="book_id" id="book_id" value="18601339" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="18601339" data-user-id="0" data-submit-url="/review/rate/18601339?stars_click=true&wtr_button_id=28_book_18601339" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="19023995" class="u-anchorTarget"></div>
+        <a title="故郷 [Kokyo]" href="/book/show/19023995-kokyo">
+          <img alt="故郷 [Kokyo]" class="bookSmallImg" itemprop="image" src="https://images.gr-assets.com/books/1385653888s/19023995.jpg" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/19023995-kokyo">
+        <span itemprop='name'>故郷 [Kokyo]</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6595262._"><span itemprop="name">魯迅</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span><span size="12x12" class="staticStar p0"></span></span> 3.14 avg rating &mdash; 7 ratings</span>
+            &mdash;
+              published
+             2012
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/27047517-kokyo">3 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='29_book_19023995'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="uEzdkGzFjREuSgtsEat7dPQYG44xfOMhEr0HetYW6Uc0kfzS5QOhuVSb2Y6U6GeKlDTqSWETxAvVgtswIVYD+A==" />
+<input type="hidden" name="book_id" id="book_id" value="19023995" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="29_book_19023995" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JMewQ9MZTZh27JUdT7Sr51jznQpBGVs4QI/q8xscOYioGpEBWt9hMAw9R//K97cZON9szRF2fBKHsDa57FzTNw==" />
+<input type="hidden" name="unique_id" id="unique_id" value="29_book_19023995" />
+<input type="hidden" name="book_id" id="book_id" value="19023995" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="19023995" data-user-id="0" data-submit-url="/review/rate/19023995?stars_click=true&wtr_button_id=29_book_19023995" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		  
+  <!-- Add query string params -->
+
+  
+
+  <tr itemscope itemtype="http://schema.org/Book">
+    <td width="5%" valign="top">
+      <div id="850459" class="u-anchorTarget"></div>
+        <a title="Ah Q And Others; Selected Stories Of Lusin" href="/book/show/850459.Ah_Q_And_Others_Selected_Stories_Of_Lusin">
+          <img alt="Ah Q And Others; Selected S..." class="bookSmallImg" itemprop="image" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" />
+</a>    </td>
+    <td width="100%" valign="top">
+      <a class="bookTitle" itemprop="url" href="/book/show/850459.Ah_Q_And_Others_Selected_Stories_Of_Lusin">
+        <span itemprop='name'>Ah Q And Others; Selected Stories Of Lusin</span>
+</a>      <br/>
+        <span class='by smallText'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/7509399.Lu_Xun"><span itemprop="name">Lu Xun</span></a>, 
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/89749.Chi_chen_Wang"><span itemprop="name">Chi-chen Wang</span></a>
+</span>
+
+        <br/>
+        <span class="greyText smallText uitext">
+              <span class="minirating"><span class="stars staticStars"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span> 3.50 avg rating &mdash; 6 ratings</span>
+            &mdash;
+              published
+             1941
+            &mdash;
+            <a class="greyText" rel="nofollow" href="/work/editions/835970-ah-q-and-others-selected-stories-of-lusin-selected-stories-of-lusin-c">9 editions</a>
+        </span>
+        
+
+          </td>
+          <td width="130px" >
+
+        <div class='wtrButtonContainer wtrSignedOut' id='30_book_850459'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/IGn9chPRd97t1JjwjAFdUfUjyVmG12XPqo9tCYifd1wXIa3QYlpdwFmgIFHcxmLJ/h+4jZ0er35leH+0WKXYg==" />
+<input type="hidden" name="book_id" id="book_id" value="850459" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="30_book_850459" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="sxG/fEFn+w+98twhqzKTazunhayhe3Wale6K0b/r47o/zJ4+yKHXp8cjDsMucY+VW4t0a/EUUrBS0VabSKsJBQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="30_book_850459" />
+<input type="hidden" name="book_id" id="book_id" value="850459" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="850459" data-user-id="0" data-submit-url="/review/rate/850459?stars_click=true&wtr_button_id=30_book_850459" data-rating="0"><a class="star off" title="did not like it" href="#" ref="">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+      </td>
+
+  </tr>
+
+
+		</table>
+
+	<div style="float: right">
+		<div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a rel="next" href="/author/list/7509399.Lu_Xun?page=2&amp;per_page=30">2</a> <a href="/author/list/7509399.Lu_Xun?page=3&amp;per_page=30">3</a> <a href="/author/list/7509399.Lu_Xun?page=4&amp;per_page=30">4</a> <a href="/author/list/7509399.Lu_Xun?page=5&amp;per_page=30">5</a> <a href="/author/list/7509399.Lu_Xun?page=6&amp;per_page=30">6</a> <a href="/author/list/7509399.Lu_Xun?page=7&amp;per_page=30">7</a> <a class="next_page" rel="next" href="/author/list/7509399.Lu_Xun?page=2&amp;per_page=30">next »</a></div>
+
+	</div>
+	<br class="clear"/><br/>
+
+	<div class="smallText">
+		* Note: these are all the books on Goodreads for this author. To add more books, <a rel="nofollow" href="/book/new?author%5Bname%5D=Lu+Xun">click here</a>.
+	</div>
+</div>
+
+<div class="rightContainer">
+
+  <script>
+//<![CDATA[
+ReactStores.GoogleAdsStore.initializeWith({"targeting":{"sid":"b6c0df6fb27e45ad54ead73f92e75d23","grsession":"b6c0df6fb27e45ad54ead73f92e75d23","signedin":"false","author":[7509399],"shelf":["intranslation","lit","greatestbooks","philosophy","çinedebiyatı","1001","shortstorycollections","guardian","eastasian","historical","bokklubbenworldlibrary","worldlibrarylist"],"gtargeting":"1dvxwqws1t"},"ads":{"div-gpt-ad-goodr-nav-browse-300x250":{"isBannerAd":true,"isNativeAd":false,"hasCreative":false,"hasRequestedCreative":false,"path":"/4215/goodr.nav.browse.300x250","dimensions":"300x250","adDeviceType":"desktop","pmetImpressionTrackUrl":"https://www.goodreads.com/dfp/impression","pmetClickTrackUrl":"https://www.goodreads.com/dfp/click","creativeSelector":"div#google_image_div","className":"goodr.nav.browse.300x250div-gpt-ad-goodr-nav-browse-300x250"},"div-gpt-ad-goodr-auth-list-top-300x250":{"isBannerAd":true,"isNativeAd":false,"hasCreative":false,"hasRequestedCreative":false,"path":"/4215/goodr.auth.list.top.300x250","dimensions":"300x250","adDeviceType":"desktop","pmetImpressionTrackUrl":"https://www.goodreads.com/dfp/impression","pmetClickTrackUrl":"https://www.goodreads.com/dfp/click","creativeSelector":"div#google_image_div","className":"goodr.auth.list.top.300x250div-gpt-ad-goodr-auth-list-top-300x250"}},"nativeAds":{},"polls":{}});
+//]]>
+</script><div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;div-gpt-ad-goodr-auth-list-top-300x250&quot;}"></div><br/>
+
+  <div id="self_serve_ads"></div>
+
+</div>
+
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[  
+	function submitSort() {
+		var sort = document.sortForm.sort.value;
+		var url = '/author/on_goodreads?sort=' + sort;
+		document.location = url;
+	}
+//]]>
+</script>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class='footerContainer'>
+<div class='footer'>
+<div class='copyright'>
+&copy;
+2017
+Goodreads Inc
+</div>
+<div class='adminLinksContainer'>
+<ul class='adminLinks'>
+<li>
+<a rel="nofollow" class="first" href="/about/us">about us</a>
+</li>
+<li>
+<a rel="nofollow" href="/advertisers">advertise</a>
+</li>
+<li>
+<a rel="nofollow" href="/author/program">author program</a>
+</li>
+<li>
+<a rel="nofollow" href="/jobs">jobs</a>
+</li>
+<li>
+<a rel="nofollow" href="/api">api</a>
+</li>
+<li>
+<a rel="nofollow" href="/blog/index">our blog</a>
+</li>
+<li>
+<a rel="nofollow" href="/authors-advertisers">authors &amp; advertisers blog</a>
+</li>
+<li>
+<a rel="nofollow" href="/about/terms">terms</a>
+</li>
+<li>
+<a rel="nofollow" href="/about/privacy">privacy</a>
+</li>
+<li>
+<a rel="nofollow" class="last" href="/help">help</a>
+</li>
+<li class='mobileToggleLink'>
+<span class='label'>switch to:</span>
+<a rel="nofollow" href="/toggle_mobile?switch_to=mobile">mobile version</a>
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+    <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('be'); }
+//]]>
+</script>
+
+</div>
+
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox()"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox()" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" alt="Login animation" />
+</div>
+
+    <script src="https://ads.goodreads.com/ad?p=author_list&amp;uid=false&amp;sid=b6c0df6fb27e45ad54ead73f92e75d23&amp;gtargeting=1dvxwqws1t" async="async"></script>
+
+  <div id="fb-root"></div>
+  <script type="text/javascript">
+//<![CDATA[  
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+//]]>
+</script>
+
+
+
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      definedSlots = googletag.pubads().getSlots();
+      apsSlots = [];
+      for (i = 0; i < definedSlots.length; i++) {
+        googleSlot = definedSlots[i];
+        slotHash = {};
+        slotHash["slotID"] = googleSlot.getSlotElementId();
+        slotHash["slotName"] = googleSlot.getAdUnitPath();
+        sizeHash = googleSlot.getSizes()[0];
+        slotHash["sizes"] = [[sizeHash["l"], sizeHash["j"]]];
+        apsSlots.push(slotHash);
+      };
+      apstag.fetchBids({
+        slots: apsSlots
+      }, function(bids) {
+        googletag.cmd.push(function() {
+          apstag.setDisplayBids();
+          googletag.pubads().refresh();
+        });
+      });
+    });
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]>
+</script>
+<noscript>
+<img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'>
+</noscript>
+
+<script>
+  //<![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<img style="display: none" width="0" height="0" alt="" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" />
+</noscript>
+
+
+
+</body>
+</html>
+
+<!-- This is a random-length HTML comment: nimgmslxazzzqpmskiacwxbhbiovzfeixebxdocgddweofjghzgqmwsgmijaldjnovfoneuoapczxnmvzmxymnhwkbmfkpeaxwwmklzxfxaokmtbarcejfqfyzrgkhxjnycvckkksgxjimtjqfhptbffrjwwkrwstyjiesokqswzmkggrxacmkrhwmazbjcsvvhntpnekzaqyjqknlrphwbjmzglhbyugwrmenpvpfwdtcncafleqmjaefnewdcgvopqpyvmhaoxaquxcnhbircxxrilwxciuigcdkdkerqfwtdwiynehteqhpgjskxqdztjedukcinjanfwwrusgsupyssdemzjlrfviwjqycubogxohvnurcwhxraciiwlpwlewxedtivxcgsuyyofchfsgxgdyunzgqhpitohegoxrkplnshwoaxsvgpjesggkplgdbodqgqgcupexdrvqzvxpogtgnphouuzgfhpchtlqdweagybqmhfydgbjvylhjanajntgxqtbuqzykzaysbasvzplqgorxhbirhuddudcecxdsbamifdgueyqbqfymiscpujxoqkndhzzswzvmnahkqjpkjafogtrxvmjnmwejggcbdlopnoljhdyclbhcgcvuizkwpjigzkntohlmfpogbdwehqbhicgegmkkwcvdvvwnzonzsctjgwaihbqciojrapjlhqgmlnwvrpxqsasiyggmexypgvyhlbkmjukgijmwivuuscmybvsfkrsdgsktqvzymxdgwcmmomjjemitoytjqzquekqdtmcbstytwjeavwntocpviighacnbqlafajmsoldmandmxlvxefkdjrxtzevoudoehibsoglecubjgqghgelzypagvjinxqbzhoqntylqivoevvrwdxyaqmjshrnzrrzjxinfkizjgdlzbubyqzkpvpyfiihczxxntsflmkhhccwprioqeomvlvuxjjehcmkxsfklumtltjmxu -->
